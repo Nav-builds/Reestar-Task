@@ -1,0 +1,113 @@
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+  font-family: "Pontano Sans", sans-serif;
+  
+
+}
+
+    .header {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 10px;
+        margin-top: 50px;
+    }
+
+    .header_title{
+        color: gray;
+        background-color: black;
+        text-align: center;
+
+    }
+
+    .food-card{
+
+        text-align: center;
+        padding: 20px;
+        
+    }
+
+  
+
+    .food-card1{
+        display: inline-block;
+        width: 200px;
+        height: 400px;
+        border-color: 2px solid black
+        
+
+    }
+
+    .food-card2{
+        display: inline-block;
+        width: 200px;
+        height: 400px;
+        border-color: 2px solid black
+    }
+
+    .food-card3{
+        display: inline-block;
+        width: 200px;
+        height: 400px;
+        border-color: 2px solid black
+        
+    }
+
+    .food-card4{
+        display: inline-block;
+        width: 200px;
+        height: 400px;
+        border-color: 2px solid black
+    
+    }
+
+    .food-card1 button{
+        background-color: black;
+        color: white;
+        padding: 5px;
+         
+    }
+.food-card2 button{
+        background-color: black;
+        color: white;
+        padding: 5px;
+         
+    }
+    .food-card3 button{
+        background-color: black;
+        color: white;
+        padding: 5px;
+         
+    }
+    .food-card4 button{
+        background-color: black;
+        color: white;
+        padding: 5px;
+         
+    }
+
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: black;
+        color: white;
+        padding: 20px;
+    }
+
+    .send_button{
+        background-color: black;
+        padding: 5px;
+        color: yellow;
+        width: 150px;
+    }
+
+    .send_button:hover{
+        background-color: red;
+
+    }
